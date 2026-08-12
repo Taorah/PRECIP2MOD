@@ -486,7 +486,7 @@ Louisiana State University: Department of Civil and Environmental Engineering
 
 Project conception, precipitation forcing workflow guidance, and scientific direction.
 
-### Yusuf Taofiq
+### Taofiq Yusuf
 
 Department of Civil and Environmental Engineering
 Louisiana State University
@@ -520,6 +520,6 @@ Please also cite:
 
 Repository Maintainer:
 
-Yusuf Taofiq
+Taofiq Yusuf
 Louisiana State University
 Email: [tyusuf1@lsu.edu](mailto:tyusuf1@lsu.edu)
