@@ -6,13 +6,16 @@ type: software
 
 authors:
 
-- name: Taofiq  Yusuf
-  affiliation: Department of Civil and Environmental Engineering, Louisiana State University
+- family-names: Yusuf
+  given-names: Taofiq 
+  affiliation: Civil and Environmental Engineering, Louisiana State University
 
-- name: Peter Bacopoulos
-  affiliation: Coastal Ecosystem Design Studio, Louisiana State University;
+- family-names: Bacopoulos
+  given-names: Peter
+  affiliation: Coastal Ecosystem Design Studio, Louisiana State University
 
-- name: Matthew Brand
+- family-names: Brand
+  given-names: Matthew
   affiliation: Department of Civil and Environmental Engineering, Louisiana State University
 
 repository-code: "https://github.com/Taorah/PRECIP2MOD"
@@ -21,3 +24,4 @@ version: "1.0.0"
 
 date-released: 2026-08-12
 ```
+
