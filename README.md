@@ -98,7 +98,6 @@ The ERA5 variable requested is:
 ```text
 mean_total_precipitation_rate
 ```
-
 Depending on the NetCDF encoding, the precipitation variable may appear as:
 
 ```text
